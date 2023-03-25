@@ -28,6 +28,13 @@ cd kibana/
 helm install kibana . -n logging --create-namespace
 ```
 
+#### Step 5 — Run Kibana
+
+```shell
+kubectl port-forward service/kibana-kibana 8080:5601 -n logging
+```
+
+
 #### Resources
 
 - NGINX Ingress Controller - https://kubernetes.github.io/ingress-nginx/
