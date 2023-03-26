@@ -1,4 +1,4 @@
-# EKS
+# EKS v7
 
 #### Step 1 — Install Filebeat
 

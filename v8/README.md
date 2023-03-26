@@ -1,4 +1,6 @@
-# EKS
+# EKS v8
+
+## This project is under development.
 
 #### Step 1 — Install the ECK operator CRDs
 
