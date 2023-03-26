@@ -33,7 +33,6 @@ kubectl apply -f kibana-instance.yaml -n logging
 kubectl apply -f filebeat-kubernetes.yaml
 ```
 
-
 #### Resources
 
 - EBS CSI Driver - https://repost.aws/knowledge-center/eks-persistent-storage
